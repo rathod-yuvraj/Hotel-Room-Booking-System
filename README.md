@@ -43,8 +43,8 @@ Hello 👋, I'm <strong>Samiur Rahman Mukul</strong>. In this repository i will 
 
 <!-- live preview links -->
 
-[admin-panel-link]: https://admin-beach-resort.vercel.app
-[frontend-link]: https://mukul-beach-resort.vercel.app
+[admin-panel-link]: https://admin.vercel.app
+[frontend-link]: .vercel.app
 
 <p align="center">
   <strong> HAPPY DEVELOPMENT 😀 & I LOVE PROGRAMMING 💖 </strong>
